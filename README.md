@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://cdn-uploads.huggingface.co/production/uploads/65ea1c7c88cb0da4669a18bf/fbz7IrfN9l7O92urnepX5.jpeg" alt="Image" style="display: block; margin: auto;" />
+<img src="https://github.com/StrangeJoe2613/WordPress_Incomplete_Guide/assets/107075016/73030cb6-9113-48d0-b928-3944e620b3ec" alt="Image" style="display: block; margin: auto;" />
 </p>
 
 <h3 align="center">✨✨✨ WordPress Website - 使用不完全指南 ! v1.0 ✨✨✨</h3>
