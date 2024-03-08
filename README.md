@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/StrangeJoe2613/WordPress_Incomplete_Guide/assets/107075016/42a9dedd-ec38-43a3-812d-02663f349daf" alt="Image" style="display: block; margin: auto;" />
+<img src="https://github.com/StrangeJoe2613/WordPress_Incomplete_Guide/assets/107075016/f5d76ff1-2916-4d52-89ad-a7cabfe56dbd" alt="Image" style="display: block; margin: auto;" />
 </p>
 
 <h3 align="center">✨✨✨ WordPress Website - 使用不完全指南 ! v1.0 ✨✨✨</h3>
